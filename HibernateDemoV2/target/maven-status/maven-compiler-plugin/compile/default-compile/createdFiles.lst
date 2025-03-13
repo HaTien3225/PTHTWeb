@@ -1,0 +1,6 @@
+com\htt\hibernatedemov2\HibernateDemoV2.class
+com\htt\hibernatedemov2\HibernateUtils.class
+com\htt\repositories\impl\CategoryRepositoryImpl.class
+com\htt\repositories\impl\ProductRepositoryImpl.class
+com\htt\pojo\Product.class
+com\htt\pojo\Category.class
